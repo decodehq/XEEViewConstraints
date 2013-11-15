@@ -45,10 +45,4 @@
     [self.view addConstraints:[blueView setViewWidth:60.f height:40.f]];
 }
 
-- (void)didReceiveMemoryWarning
-{
-    [super didReceiveMemoryWarning];
-    // Dispose of any resources that can be recreated.
-}
-
 @end
