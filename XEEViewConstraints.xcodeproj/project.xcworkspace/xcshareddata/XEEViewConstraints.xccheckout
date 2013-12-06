@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F865AA58-DC65-4D4B-A320-90FE45B0CF20</string>
+	<key>IDESourceControlProjectName</key>
+	<string>XEEViewConstraints</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8A3BC8DF-6D08-4706-A235-9E5164B3DB07</key>
+		<string>https://github.com/XEEtech/XEEViewConstraints.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>XEEViewConstraints.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8A3BC8DF-6D08-4706-A235-9E5164B3DB07</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/XEEtech/XEEViewConstraints.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8A3BC8DF-6D08-4706-A235-9E5164B3DB07</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8A3BC8DF-6D08-4706-A235-9E5164B3DB07</string>
+			<key>IDESourceControlWCCName</key>
+			<string>XEEViewConstraints</string>
+		</dict>
+	</array>
+</dict>
+</plist>

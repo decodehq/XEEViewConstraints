@@ -256,7 +256,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0500;
-				ORGANIZATIONNAME = "Andrija Cajic";
+				ORGANIZATIONNAME = "XEE Tech";
 				TargetAttributes = {
 					A7778F59183510B50094595F = {
 						TestTargetID = A7778F38183510B50094595F;
@@ -547,6 +547,7 @@
 				A7778F6D183510B50094595F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A7778F6E183510B50094595F /* Build configuration list for PBXNativeTarget "XEEViewConstraintsTests" */ = {
 			isa = XCConfigurationList;
@@ -555,6 +556,7 @@
 				A7778F70183510B50094595F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A7778F7F183511ED0094595F /* Build configuration list for PBXAggregateTarget "XEEViewConstraintsDocumentation" */ = {
 			isa = XCConfigurationList;
@@ -563,6 +565,7 @@
 				A7778F81183511ED0094595F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
